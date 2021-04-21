@@ -1,0 +1,15 @@
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.csprojAssemblyReference.cache
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.AssemblyInfoInputs.cache
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.AssemblyInfo.cs
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\TeamRankingsWebScrape.exe
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\TeamRankingsWebScrape.deps.json
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\TeamRankingsWebScrape.runtimeconfig.json
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\TeamRankingsWebScrape.runtimeconfig.dev.json
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\TeamRankingsWebScrape.dll
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\TeamRankingsWebScrape.pdb
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.dll
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.pdb
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.genruntimeconfig.cache
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.csproj.CoreCompileInputs.cache
+C:\Projects\TeamRankingsWebScrape\TeamRankingsWebScrape\obj\Debug\netcoreapp3.1\TeamRankingsWebScrape.csproj.CopyComplete

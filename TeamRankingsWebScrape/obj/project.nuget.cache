@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1fvBTdDJb+7CYMw/Lb3Mj3ushRcSDUB+Un8j1dCJsSSJXOsljtkdtbzsieX8c18MiXQds4Xb4MjhMnk4oeXCw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\TeamRankingsWebScrape\\TeamRankingsWebScrape\\TeamRankingsWebScrape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josef\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
+  "logs": []
+}
